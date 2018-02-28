@@ -26,4 +26,8 @@ stop_time=time.time()
 print('主函数',n)
 
 
+
+
+
+
 print('time',stop_time-start_time)
