@@ -1,0 +1,1 @@
+{"lisi": {"username": "lisi", "password": "lisi", "creditcard": 0, "address": "None", "locked": 0}, "zhangsan": {"username": "zhangsan", "password": "zhangsan", "creditcard": "888888", "address": "\u5317\u4eac\u671d\u9633", "locked": 0}, "test": {"username": "test", "password": "test", "creditcard": 0, "address": "None", "locked": 0}}
